@@ -18,6 +18,12 @@
 - Optimized inference memory footprint by 50% by sharing a single global SentenceTransformer instance between the embedding encoder and KeyBERT, preventing duplicate model loading in RAM.
 - Implemented a hybrid retrieval scoring algorithm utilizing asymmetric semantic similarity (with BGE query prefixes), two-tier skill coverage (with BFS cycle-protection), and heuristic quality scoring, outperforming standard regex-based parsers.
 
+### MPOnline Limited (Govt. of MP & TCS JV) | AI/ML & Software Engineering Intern                        
+Training-focused Internship           						                                      May 2026 – July 2026 
+- Completed a structured internship program covering full-stack development, MVC architecture, REST APIs, relational database design, and SQL/ER modeling.
+- Developed a comprehensive full-stack project applying RESTful APIs, MVC architecture, and relational database concepts.
+-	Built AI/ML pipelines involving feature engineering, model evaluation, and neural networks for Natural Language Processing tasks.
+
 ## PROJECTS
 
 ### Placement Portal System | Flask, Vue.js, SQLite, SQLAlchemy, Redis, Celery, JWT
