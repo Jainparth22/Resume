@@ -19,7 +19,7 @@
 - Implemented a hybrid retrieval scoring algorithm utilizing asymmetric semantic similarity (with BGE query prefixes), two-tier skill coverage (with BFS cycle-protection), and heuristic quality scoring, outperforming standard regex-based parsers.
 
 ### MPOnline Limited (Govt. of MP & TCS JV) | AI/ML & Software Engineering Intern                        
-Training-focused Internship           						                                      May 2026 – July 2026 
+Training-focused Internship   |        						                                      May 2026 – July 2026 
 - Completed a structured internship program covering full-stack development, MVC architecture, REST APIs, relational database design, and SQL/ER modeling.
 - Developed a comprehensive full-stack project applying RESTful APIs, MVC architecture, and relational database concepts.
 -	Built AI/ML pipelines involving feature engineering, model evaluation, and neural networks for Natural Language Processing tasks.
